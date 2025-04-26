@@ -125,7 +125,7 @@ dataset/
 
 ## 📚 Tài liệu tham khảo
 - [Tài liệu chính thức OpenCV](https://docs.opencv.org/4.x/)
-- [Giải thích Haar Cascade](https://docs.opencv.org/4.x/d7/d8b/tutorial_py_face_detection.html)
+- [Giải thích Haar Cascade](https://viblo.asia/p/haar-cascade-la-gi-luan-ve-mot-ky-thuat-chuyen-dung-de-nhan-biet-cac-khuon-mat-trong-anh-E375zamdlGW)
 - [Giới thiệu Local Binary Patterns (LBP)](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_local_binary_pattern.html)
 
 ---
